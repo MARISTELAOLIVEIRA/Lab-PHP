@@ -14,6 +14,8 @@ $title = "Laboratório PHP";
 
 <h1>🚀 PHP funcionando!</h1>
 
+<p> Prof. Maristela</p>
+<br>
 <p>Se você está vendo esta página, o servidor PHP está ativo.</p>
 
 <?php
